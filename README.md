@@ -1,5 +1,5 @@
-## Lode (n.) - A rich source or supply.
-## Lodestar (n.) - A principle, interest, or person that serves as a guide.
+### Lode (n.) - A rich source or supply.
+### Lodestar (n.) - A principle, interest, or person that serves as a guide.
 
 
 <!--
