@@ -1,4 +1,6 @@
-## Hi there 👋
+## Lode (n.) - A rich source or supply.
+## Lodestar (n.) - A principle, interest, or person that serves as a guide.
+
 
 <!--
 **MeetLode/MeetLode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
